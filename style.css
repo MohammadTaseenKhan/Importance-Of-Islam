@@ -5,3 +5,6 @@ footer {
   background-color: DarkSalmon;
   color: white;
 }
+img {
+  border-radius: 50%;
+}
