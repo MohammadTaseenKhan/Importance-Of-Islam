@@ -1,5 +1,7 @@
-
-footer {
+.body {
+  background: black;
+}
+.footer {
   img {
   border-radius: 50%;
 }
