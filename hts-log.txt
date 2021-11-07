@@ -1,0 +1,18 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 07 Nov 2021 22:53:58 at https://importanceofislambdforall.blogspot.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://importanceofislambdforall.blogspot.com/ -O1 "D:\Websites\importanceofislam" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+22:55:24	Error: 	"Not Found" (404) at link https://importanceofislambdforall.blogspot.com/https (from https://importanceofislambdforall.blogspot.com/)
+22:57:43	Error: 	"Not Found" (404) at link https://importanceofislambdforall.blogspot.com/p/https (from https://importanceofislambdforall.blogspot.com/p/privacy-policy.html)
+22:57:54	Error: 	"Not Found" (404) at link https://importanceofislambdforall.blogspot.com/2021/10/https (from https://importanceofislambdforall.blogspot.com/2021/10/blog-post_23.html)
+22:58:53	Error: 	"Not Found" (404) at link https://importanceofislambdforall.blogspot.com/2021/09/https (from https://importanceofislambdforall.blogspot.com/2021/09/)
+22:59:48	Error: 	"Not Found" (404) at link https://importanceofislambdforall.blogspot.com/2021/08/https (from https://importanceofislambdforall.blogspot.com/2021/08/blog-post_40.html)
+22:59:48	Error: 	"Not Found" (404) at link https://importanceofislambdforall.blogspot.com/2021/08/demo-to-prevent-copy-paste-on-blogger_files/googleapis.js (from https://importanceofislambdforall.blogspot.com/2021/08/blog-post_2.html)
+22:59:52	Error: 	"Not Found" (404) at link https://importanceofislambdforall.blogspot.com/2021/09/demo-to-prevent-copy-paste-on-blogger_files/googleapis.js (from https://importanceofislambdforall.blogspot.com/2021/09/blog-post_43.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 6 minutes 48 seconds : 264 links scanned, 256 files written (18553397 bytes overall) [5915926 bytes received at 14499 bytes/sec], 16292909 bytes transferred using HTTP compression in 208 files, ratio 17%
+(7 errors, 0 warnings, 0 messages)
